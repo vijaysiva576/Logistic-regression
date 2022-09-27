@@ -1,4 +1,4 @@
-# Ex2_linear-regression
+# Ex2_logistic-regression
 Logistic regression is used for diabetic prediction
 Input attributes are, Pregnancies, Glucose, BloodPressure, SkinThickness, Insulin, BMI, DiabetesPedigreeFunction and Age.
 Output attribute is Outcome: '1': Diabetes; '0': 
